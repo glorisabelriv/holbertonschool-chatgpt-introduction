@@ -6,7 +6,7 @@ def factorial(n):
     Calculate the factorial of a given number using recursion.
 
     Parameters:
-    n (int): A non- negative integer for which the factorial is to be calculated.
+    - n (int): The number factorial is to be calculated.
 
     Returns:
     int: The factorial of the number 'n'.
